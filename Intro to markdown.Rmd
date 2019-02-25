@@ -131,7 +131,7 @@ It is useful to understand how to modify text and format headings. You can do th
   
 - `inline equation`: $A = \pi*r^{2}$ or $y = a*x+ b$  
   
-- (a line can inserted with `***`) 
+- (a line can be inserted with `***`) 
   
 - using the `>` before and after a line can give you a quote/emphasis, such as...  
   
